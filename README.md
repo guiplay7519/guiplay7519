@@ -28,7 +28,7 @@
 
 | Plateforme | Profil & Stats |
 | :--- | :--- |
-| **Root-Me** | [![Root-Me](https://img.shields.io/badge/Root--Me-2000%2B_Points-orange?style=flat&logo=root-me)]([https://www.root-me.org/](https://www.root-me.org/Guillaume-Jacquemin)) |
+| **Root-Me** | [![Root-Me](https://img.shields.io/badge/Root--Me-2000%2B_Points-orange?style=flat&logo=root-me)](https://www.root-me.org/Guillaume-Jacquemin) |
 | **HackTheBox** | [![HTB](https://img.shields.io/badge/HackTheBox-Student-9feF00?style=flat&logo=hack-the-box)](https://app.hackthebox.com/profile/XX_TON_ID_PUBLIC_XX) |
 
 > **Note sur HTB Academy :** Mon ID Étudiant pour vérification est `HTB-B00D77986E`.
